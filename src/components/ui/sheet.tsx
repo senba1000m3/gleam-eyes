@@ -51,10 +51,13 @@ const sheetVariants = cva(
 
 interface SheetContentProps
     extends React.ComponentPropsWithoutRef<typeof SheetPrimitive.Content>,
-        VariantProps<typeof sheetVariants> {}
+        VariantProps<typeof sheetVariants> {
+    // 添加一個可選屬性，使接口不為空
+    customProp?: boolean
+}
 
 const SheetContent = React.forwardRef<React.ElementRef<typeof SheetPrimitive.Content>, SheetContentProps>(
-    ({ side = "right", className, children, ...props }, ref) => (
+    ({ side = "right", className, children, customProp: _, ...props }, ref) => (
         <SheetPortal>
             <SheetOverlay />
             <SheetPrimitive.Content ref={ref} className={cn(sheetVariants({ side }), className)} {...props}>
