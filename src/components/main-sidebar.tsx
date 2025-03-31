@@ -36,11 +36,11 @@ export function MainSidebar() {
 
     return (
         <Sidebar variant="floating" collapsible="none" className="border-b w-full">
-            <SidebarHeader className="flex items-center justify-between p-4">
-                <h1 className="text-xl font-bold">閃耀魔眼社</h1>
+            <SidebarHeader className="flex items-center justify-between p-5">
+                <h1 className="text-3xl font-bold text-yellow-100"> NYCU 閃耀魔眼社</h1>
             </SidebarHeader>
             <SidebarContent>
-                <SidebarMenu className="flex flex-row items-center justify-center gap-4 p-2 w-full">
+                <SidebarMenu className="flex flex-row items-center justify-center gap-10 p-3 w-full">
                     {menuItems.map((item) => (
                         <SidebarMenuItem key={item.title}>
                             <SidebarMenuButton
