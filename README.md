@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 【社團改組公告】
 
-## Getting Started
+國立陽明交通大學動畫社（以下簡稱動畫社）與國立陽明交通大學虛擬偶像社（以下簡稱VT社）經兩社社長協商後，決議於民國114年4月1日起，正式合併並改組為 **「國立陽明交通大學閃耀魔眼社」（The Gleam Eyes，簡稱TGE）**。
 
-First, run the development server:
+## **合併的緣由與背景**
+長久以來，動畫社員一直困於想要星爆卻好星沒好爆，因為社辦過於狹小，沒有足夠的空間施展星爆氣流斬；VT社員則一直因為高階顯卡晶片 YJU1919 斷貨，導致無法買到最新 2025 年款的 NERvGear 潛行進入艾恩格朗特而耿耿於懷。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+各位社員的訴求，我們兩位社長確實的收到了。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+雖然我們各自對於原本的社團活動形式相當滿意，也對改變長久以來的慣例感到不安，但為了提供社員們最佳的星爆體驗、回應長久以來的改革呼聲，兩位社長痛定思痛，最終還是決定進行合併，冀望能為陽明交大帶來新氣象。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## **願景與核心發展**
+閃耀魔眼社將以「融合動畫藝術與虛擬偶像技術，打造次世代幻想沉浸式體驗」為願景，並推動以下四大核心計畫：
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 1. **星爆演算與魔眼強化計畫**
+- 透過最新的AI運算技術，開發「星爆氣流斬最佳化演算模組」，幫助社員更有效率地掌握星爆節奏。
+- 設立專屬「星爆訓練區」，確保施展時不會波及無辜社員與社辦裝潢。
+- 研究「閃耀魔眼」的具現化技術，確保社員在關鍵時刻能夠覺醒並獲得BUFF加成。
 
-## Learn More
+### 2. **多維偶像養成計畫**
+- 整合動態捕捉、語音合成與AI對話技術，培養真正具備「靈魂」的虛擬偶像。
+- 設立「封閉者認證考試」，確保VT社員能夠順利駕馭高維度數據流，實現偶像與現實世界的無縫接軌。
+- 內建「幫我撐十秒」應急機制，確保偶像在舞台上遇到問題時，系統能夠自動修復並穩定輸出。
 
-To learn more about Next.js, take a look at the following resources:
+### 3. **全沉浸式次文化交流平台**
+- 在元宇宙架設「艾恩格朗特•陽明交大分區」，讓社員能夠自由探索並與NPC互動。
+- 與知名技術團隊合作，開發「全息投影社辦」，實現動畫角色與虛擬偶像共存的社團環境。
+- 每月舉辦「次元穿梭週」，讓社員體驗不同動畫世界的生活方式。
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 4. **魔眼降臨儀式與社團專屬BOSS戰**
+- 每年舉辦「魔眼降臨儀式」，由社員挑戰神秘BOSS，成功通關者將授予「星爆王」稱號。
+- 設立「紅光區」，提供極限戰鬥模擬，體驗高強度的動畫戰鬥場景。
+- 研發「社辦異世界傳送門」，確保社員在社辦內能夠隨時進入不同維度的冒險模式。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## **未來展望與計畫**
+我們深信，閃耀魔眼社的成立將會成為陽明交大社團史上的一大里程碑，甚至可能影響整個ACG次文化圈。透過整合動畫與VT技術，我們將不再受限於單一媒介，而是邁向一個全新的、無邊界的幻想世界。
 
-## Deploy on Vercel
+此外，我們計劃於開學後舉辦「**魔眼降臨典禮**」，屆時將邀請神秘嘉賓（可能是AI、可能是全息投影、也可能只是PPT）進行揭幕儀式，並針對未來發展方針進行詳細說明。
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## **首屆幹部徵選**
+目前閃耀魔眼社正在積極招募有志之士，無論你是動畫狂熱者、虛擬偶像愛好者，還是對人工智慧懷抱興趣的學者，都歡迎加入我們的行列。
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+幹部需求如下：
+- **有跨次元溝通能力者優先**（即能夠與VT角色展開流暢對話）
+- **能接受多線時空設定者優先**（即願意同時追多部動畫且不會搞混劇情）
+- **擁有「封弊者」天賦者佳**（即擁有異常強悍的遊戲與動畫解析能力）
+- **星爆氣流斬能成功施展者可直接加入**（但需自行負責社辦維修費）
+- **有能力搶到 YJU1919 晶片者將享有特殊待遇**（例如優先進入潛行計畫）
+
+## **更多資訊**
+若對本社團有興趣，請於時空裂縫穩定期間（每日19:00-23:00）前往本社辦公室，或透過電子郵件 GleamEyes@nycu.edu.tw 取得聯繫。
+
+想了解更多關於閃耀魔眼社的資訊，可以我們的網站
+
+另外，由於我們併社了，已經跟學校那邊協調並修改完成，原本的社員可以到交大的單一入口點選加入社團，我們會再把你們加為新社團的社員。
+![image](https://hackmd.io/_uploads/ryKHB7upkx.png)
+
+最後，誠摯邀請所有陽明交大的學生，一同踏入次世代的幻想之門，共同見證閃耀魔眼社的誕生！
+
+——**國立陽明交通大學閃耀魔眼社（The Gleam Eyes）創始團隊 敬啟**
+
+## 幹部介紹
+
+### 社長
+閃耀魔眼社的靈魂人物，同時也是SAO全服最大的公會《血盟騎士團》的會長希茲克利夫，能一眼看穿陽明交大的真理（至少他自己這麼認為）。
+本人現在是大四下二周目，但學分卻比在醫院躺了兩年不願具名的桐姓黑色劍士還要少。
+「這不是很戲劇性的發展嗎」，本人這麼說道。
+
+### 副社長
+閃耀魔眼社的第二把交椅。
+他既是社長的得力助手，也是整個社團的理性擔當（儘管有時候會穿上女僕裝讓社員理性蒸發）。
+據說本體是企鵝，不知道在南極是否也有114.514G的高速無線網路可以讓他暢玩SAO。
+
+### 總務
+身為閃耀魔眼社的總務，他的工作是讓社團運作得井然有序——至少在表面上如此。
+他負責管理活動經費（即便社團的資金來源可疑），安排社團活動，並確保社員們每日的星爆練習順利進行。
+此外，他還要處理社長突發奇想的瘋狂計畫，並確保公關部不會因為過度誇張的宣傳而惹上麻煩。
+總務擁有強大的危機處理能力，畢竟在這個社團，混亂才是日常。
+
+### 公關
+閃耀魔眼社的形象大使，負責向全世界宣傳艾恩格朗特的神奇與偉大（即使沒人相信）。
+他擅長製造話題，無論是誇張的宣傳海報、神秘的網站、還是「十秒十六下」的都市傳說，都是他的傑作。
+他的目標是讓閃耀魔眼社成為全校最受矚目的社團，即使這意味著要製造一些「靈異事件」。
+
+### 活動
+閃耀魔眼社的幕後策劃師，負責設計各種腦洞大開的活動。
+雖然現在在「閃耀魔眼社」擔任活動，但是好像是因為隔壁「喝的LIVE」供應的飲料品項缺貨情形相當嚴重，憤而跳槽SAO。
+目前不定期會在艾恩格朗特22層湖邊的小木屋裡面，參與「喝的LIVE」的線上演唱會。
