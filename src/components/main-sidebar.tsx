@@ -40,7 +40,7 @@ export function MainSidebar() {
                 <h1 className="text-3xl font-bold text-yellow-100"> NYCU 閃耀魔眼社</h1>
             </SidebarHeader>
             <SidebarContent>
-                <SidebarMenu className="flex flex-row items-center justify-center gap-10 p-3 w-full">
+                <SidebarMenu className="flex flex-row items-center justify-center gap-4 md:gap-12 p-3 w-full">
                     {menuItems.map((item) => (
                         <SidebarMenuItem key={item.title}>
                             <SidebarMenuButton

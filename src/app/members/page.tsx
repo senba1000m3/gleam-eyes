@@ -49,7 +49,7 @@ export default function MembersPage() {
         <div className="container mx-auto px-4 py-10">
             <h1 className="text-3xl font-bold mb-8 text-center">社團幹部（攻略組）</h1>
 
-            <div className="grid grid-cols-1 gap-12 max-w-6xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-12 max-w-6xl mx-auto">
                 {members.map((member) => (
                     <Card key={member.role} className="overflow-hidden">
                         <CardHeader className="flex flex-row items-center gap-4 pb-2">

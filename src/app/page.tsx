@@ -34,15 +34,16 @@ export default function Home() {
 
     return (
         <div className="flex flex-col min-h-screen">
-            <div className="relative w-full h-[70vh]">
+            <div className="relative w-full h-[40vh] md:h-[80vh]">
                 <Image src="/banner.gif" alt="閃耀魔眼社橫幅" fill priority className="object-cover w-full" />
-                <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
-                    <h1 className="text-3xl md:text-5xl font-bold text-white text-center px-4">國立陽明交通大學閃耀魔眼社</h1>
+                <div className="absolute inset-0 bg-black/50 flex items-center justify-center flex-col gap-1 md:gap-5">
+                    <h1 className="text-[1.3rem] md:text-5xl font-bold text-white text-center px-4">國立陽明交通大學閃耀魔眼社</h1>
+                    <h3 className="text-1xl md:text-2xl font-bold text-white text-center px-4">The Gleam Eyes Club</h3>
                 </div>
             </div>
 
             <div className="container mx-auto px-4 py-16 max-w-4xl">
-                <h2 className="text-3xl font-bold text-center mb-12">🎮社團介紹🎮</h2>
+            <h2 className="text-3xl font-bold text-center mb-12">🎮社團介紹🎮</h2>
                 <div className="prose prose-lg dark:prose-invert mx-auto mb-16">
                     <p className="text-lg mb-6">
                         長久以來，動畫社員一直困於想要星爆卻好星沒好爆，因為社辦過於狹小，沒有足夠的空間施展星爆氣流斬；VT社員則一直因為高階顯卡晶片YJU1919斷貨，導致無法買到最新2025年款的NervGear潛行進入艾恩格朗特而耿耿於懷。
